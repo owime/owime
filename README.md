@@ -1,5 +1,6 @@
+![Sicra-LogoBilde_linkedIn - Copy](https://user-images.githubusercontent.com/98456034/157824262-b0edd13d-a222-4b24-8757-ccf5ef49db23.jpg)
 
-![toasthero_sicra](https://user-images.githubusercontent.com/98456034/157822957-746b03bb-b548-4211-992a-540973f4d6de.png)
+
 
 ### Hi there 👋
 
