@@ -1,7 +1,7 @@
+
+![toasthero_sicra](https://user-images.githubusercontent.com/98456034/157822957-746b03bb-b548-4211-992a-540973f4d6de.png)
+
 ### Hi there 👋
-
-[Sicra](https://sicra.no)
-
 
 <!--
 **owime/owime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
